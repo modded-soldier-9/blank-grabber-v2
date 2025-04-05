@@ -1,46 +1,47 @@
 <h1 align="center">
-   Blank Grabber
+   Blank Grabber (Continued Development)
 </h1>
 <p align= "center">
    <kbd>
    <img  src="https://raw.githubusercontent.com/Blank-c/Blank-Grabber/main/.github/workflows/image.png">
    </kbd><br><br>
-   <img src="https://img.shields.io/github/languages/top/Blank-c/Blank-Grabber">
-   <img src="https://img.shields.io/github/stars/Blank-c/Blank-Grabber">
-   <img src="https://img.shields.io/github/forks/Blank-c/Blank-Grabber">
+   <img src="https://img.shields.io/github/languages/top/f4kedre4lity/Blank-Grabber">
+   <img src="https://img.shields.io/github/stars/f4kedre4lity/Blank-Grabber">
+   <img src="https://img.shields.io/github/forks/f4kedre4lity/Blank-Grabber">
    <br>
-   <img src="https://img.shields.io/github/last-commit/Blank-c/Blank-Grabber">
-   <img src="https://img.shields.io/github/license/Blank-c/Blank-Grabber">
+   <img src="https://img.shields.io/github/last-commit/f4kedre4lity/Blank-Grabber">
+   <img src="https://img.shields.io/github/license/f4kedre4lity/Blank-Grabber">
    <br>
-   <img src="https://img.shields.io/github/issues/Blank-c/Blank-Grabber">
-   <img src="https://img.shields.io/github/issues-closed/Blank-c/Blank-Grabber">
+   <img src="https://img.shields.io/github/issues/f4kedre4lity/Blank-Grabber">
+   <img src="https://img.shields.io/github/issues-closed/f4kedre4lity/Blank-Grabber">
    <br>
    <br>
    <img src="https://repobeats.axiom.co/api/embed/3183aa00d01f8636a5cbc17344c36168eff93aec.svg">
 </p>
 
-## Project Status: Coming to an End
+## Project Continuation Notice
 
-Dear contributors and users,
+Hello everyone,
 
-I hope this message finds you all well. I wanted to take a moment to share an important update regarding this project.
+I'm noahmajors (f4kedre4lity), and I'm excited to announce that I'll be taking over the development and maintenance of Blank Grabber moving forward. 
 
-Over the past year, we've worked together to build and improve this project. It has been an incredible journey, and I'm immensely grateful for all the contributions, feedback, and support from each one of you. This project has not only helped me improve my Python skills but has also been a great opportunity to explore and learn more about computer systems.
+While Blank-c has done an amazing job creating this project and has decided to step away to focus on academic commitments, I believe this tool still has great potential. I'll be working to:
 
-However, as the saying goes, all good things must come to an end. As I approach the final year of my school journey, I find myself needing to focus on my academic responsibilities and make room for new opportunities ahead. Therefore, I have decided to step back from actively maintaining this project.
+- Maintain and update the existing codebase
+- Implement new features and improvements
+- Address any security vulnerabilities
+- Review and merge pull requests
+- Keep the community informed of changes
 
-I want to express my sincere appreciation to everyone who has participated in this project, be it through code contributions, issue reporting, or offering valuable insights. Your involvement has been the driving force behind the project's success.
+The original repository by Blank-c will remain available for reference, but all active development will now happen here:  
+https://github.com/f4kedre4lity/Blank-Grabber
 
-I'm happy to announce that noahmajors, one of the contributors to this project, has taken the initiative to fork the repository and continue its development. You can find the active fork at the following link: https://github.com/f4kedre4lity/Blank-Grabber
+I want to thank Blank-c for creating this project and for entrusting me with its future. I also want to thank all the contributors and users who have supported this project - I look forward to working with you all!
 
-I encourage you all to show your support to noahmajors and the new direction they will take the project. Please consider contributing to the fork if you are interested in its future development.
-
-While this marks the end of my direct involvement with this project, I sincerely hope that the codebase and knowledge shared here will continue to benefit the community.
-
-Thank you all once again for being part of this journey. I wish you all the best in your endeavors and hope our paths may cross again in the future.
+If you have any suggestions or would like to contribute, please feel free to open issues or pull requests.
 
 Best regards,  
-Blank-c
+noahmajors (f4kedre4lity)
 
 ## Table of Contents
 
@@ -53,9 +54,9 @@ Blank-c
 
 ## Download
 
-[![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)](https://github.com/Blank-c/Blank-Grabber/archive/refs/heads/main.zip)
+[![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)](https://github.com/f4kedre4lity/Blank-Grabber/archive/refs/heads/main.zip)
 
-**Disclaimer:** This program is provided for educational and research purposes only. The creator of this program does not condone or support any illegal or malicious activity, and will not be held responsible for any such actions taken by others who may use this program. By downloading or using this program, you acknowledge that you are solely responsible for any consequences that may result from the use of this program.
+**Disclaimer:** This program is provided for educational and research purposes only. The maintainer of this program does not condone or support any illegal or malicious activity, and will not be held responsible for any such actions taken by others who may use this program. By downloading or using this program, you acknowledge that you are solely responsible for any consequences that may result from the use of this program.
 
 **Note:** If the grabber fails to function, attempt rebuilding it without enabling the "Anti VM" option.
 
@@ -108,7 +109,7 @@ Blank-c
 | **Melt Stub** | Deletes the stub after use. |
 | **Pump Stub** | Pumps the stub upto the provided size. |
 | **Fake Error** | Create custom (fake) error. |
-| **Block AV Sites** | Blocks AV related sites ([Unblock](https://github.com/Blank-c/Blank-Grabber/issues/117)). |
+| **Block AV Sites** | Blocks AV related sites ([Unblock](https://github.com/f4kedre4lity/Blank-Grabber/issues)). |
 | **Discord Injection** | Puts backdoor on the Discord client for persistence. |
 | **UAC Bypass** | Tries to get administrator permissions without showing any prompt. |
 
@@ -117,7 +118,7 @@ Blank-c
 ## Requirements
 
 **To build the stub, you need:**
-- Windows 10.
+- Windows 10,11.
 - Python 3.10+.
 - An active internet connection.
 
@@ -134,13 +135,8 @@ Blank-c
 
 ## Support the Project
 
-If you find this project useful and would like to show your support, you can make a donation using the following cryptocurrencies:
-
-- **Bitcoin (BTC):**
-  - Wallet Address: bc1quyf7d2cwrd0rgtyhtjt7ermxlw4hzg8npr4yce
-
-- **Ethereum (ETH):**
-  - Wallet Address: 0x54Ab5743141c781178863e3F658d48Cb9564f520
-
-- **USDT (Tron network):**
-  - Wallet Address: TJsixSZ9LDpn3ZNF8pEKmfNaNkMTrK1hWJ
+If you find this project useful and would like to show your support, you can:
+- Star the repository
+- Create issues for bugs or feature requests
+- Submit pull requests with improvements
+- Share with others who might find it useful
