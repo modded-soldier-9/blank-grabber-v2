@@ -23,7 +23,7 @@
 
 Hello everyone,
 
-I'm noahmajors (f4kedre4lity), and I'm excited to announce that I'll be taking over the development and maintenance of Blank Grabber moving forward. 
+I'm modded (modded-soldier-9), and I'm excited to announce that I'll be taking over the development and maintenance of Blank Grabber moving forward. 
 
 While Blank-c has done an amazing job creating this project and has decided to step away to focus on academic commitments, I believe this tool still has great potential. I'll be working to:
 
@@ -34,14 +34,14 @@ While Blank-c has done an amazing job creating this project and has decided to s
 - Keep the community informed of changes
 
 The original repository by Blank-c will remain available for reference, but all active development will now happen here:  
-https://github.com/f4kedre4lity/Blank-Grabber
+https://github.com/modded-soldier-9/Blank-Grabber-v2
 
 I want to thank Blank-c for creating this project and for entrusting me with its future. I also want to thank all the contributors and users who have supported this project - I look forward to working with you all!
 
 If you have any suggestions or would like to contribute, please feel free to open issues or pull requests.
 
 Best regards,  
-noahmajors (f4kedre4lity)
+Blank-c
 
 ## Table of Contents
 
